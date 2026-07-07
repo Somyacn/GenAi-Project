@@ -480,5 +480,201 @@
     ],
     "timestamp": "2026-07-06T21:36:44.714040",
     "logged_at": "2026-07-06T21:36:44.714680"
+  },
+  {
+    "conversation_id": "fa60c226-474b-4374-ad13-f28fd358add6",
+    "event_name": "Global Ai Summit 2026",
+    "topics": [
+      {
+        "topic": "Cybersecurity in Global Ai Summit 2026",
+        "talking_points": [
+          {
+            "point": "How is the world of technology evolving?",
+            "details": "How is the world of technology evolving?"
+          },
+          {
+            "point": "What is the future of Cybersecurity at Global Ai Summit 2026?",
+            "details": "What is the future of Cybersecurity at Global Ai Summit 2026?"
+          },
+          {
+            "point": "What are the most important trends in cyber security at Global Ai Summit?",
+            "details": "What are the most important trends in cyber security at Global Ai Summit?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Product Management in Global Ai Summit 2026",
+        "talking_points": [
+          {
+            "point": "How to become an expert in Product Management",
+            "details": "How to become an expert in Product Management"
+          },
+          {
+            "point": "What to do about a bad product",
+            "details": "What to do about a bad product"
+          },
+          {
+            "point": "The best way to stay in business",
+            "details": "The best way to stay in business"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Cloud Computing in Global Ai Summit 2026",
+        "talking_points": [
+          {
+            "point": "Cloud Computing and Data Science: A Conversation about Cloud Computing, Data Sci",
+            "details": "Cloud Computing and Data Science: A Conversation about Cloud Computing, Data Science, and Data Security 2026"
+          },
+          {
+            "point": "Cloud Computing and Data Security: The Cloud and Data Security Model 2026",
+            "details": "Cloud Computing and Data Security: The Cloud and Data Security Model 2026"
+          },
+          {
+            "point": "Cloud Computing and Data Security: Understanding Data Security 2026",
+            "details": "Cloud Computing and Data Security: Understanding Data Security 2026"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Digital Transformation in Global Ai Summit 2026",
+        "talking_points": [
+          {
+            "point": "What is Digital Transformation?",
+            "details": "What is Digital Transformation?"
+          },
+          {
+            "point": "Digital transformation means to change the way we communicate with each other an",
+            "details": "Digital transformation means to change the way we communicate with each other and with the world by bringing together people who are already connected with each other, and creating a world where commu"
+          },
+          {
+            "point": "The Digital Transformation Platform (DPT) is an open-source, open-source project",
+            "details": "The Digital Transformation Platform (DPT) is an open-source, open-source project that is designed to be used to transform our digital lives."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Sustainability in Global Ai Summit 2026",
+        "talking_points": [
+          {
+            "point": "How do you get started with sustainable agriculture?",
+            "details": "How do you get started with sustainable agriculture?"
+          },
+          {
+            "point": "How do you deal with the problem of climate change?",
+            "details": "How do you deal with the problem of climate change?"
+          },
+          {
+            "point": "How do you deal with the environmental impact of agriculture?",
+            "details": "How do you deal with the environmental impact of agriculture?"
+          }
+        ],
+        "fact_check_status": "verified"
+      }
+    ],
+    "timestamp": "2026-07-07T15:05:31.699671",
+    "logged_at": "2026-07-07T15:05:31.709477"
+  },
+  {
+    "conversation_id": "7babe797-b5e0-4ca7-95a3-37ad3c46419f",
+    "event_name": "Global Ai Summit 2026",
+    "topics": [
+      {
+        "topic": "Cybersecurity in Global Ai Summit 2026",
+        "talking_points": [
+          {
+            "point": "How to become a Cyber Security expert, especially by learning to use tools that ",
+            "details": "How to become a Cyber Security expert, especially by learning to use tools that are not tied to your own skills and skillsets."
+          },
+          {
+            "point": "How to avoid having to learn about cybersecurity in the same way you learn about",
+            "details": "How to avoid having to learn about cybersecurity in the same way you learn about IT security."
+          },
+          {
+            "point": "How to prevent cyberattacks from happening in your home.",
+            "details": "How to prevent cyberattacks from happening in your home."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Product Management in Global Ai Summit 2026",
+        "talking_points": [
+          {
+            "point": "A great deal of attention is paid to the technical side of Product Management. M",
+            "details": "A great deal of attention is paid to the technical side of Product Management. Most of the focus is on how to communicate and respond to technical issues."
+          },
+          {
+            "point": "Product management is still the top priority. This is probably the most importan",
+            "details": "Product management is still the top priority. This is probably the most important factor when you decide to invest in your product."
+          },
+          {
+            "point": "In addition to the technical side, you can use the Product Management tools to p",
+            "details": "In addition to the technical side, you can use the Product Management tools to provide technical support. These can include software development and business management."
+          }
+        ],
+        "fact_check_status": "unverified"
+      },
+      {
+        "topic": "Cloud Computing in Global Ai Summit 2026",
+        "talking_points": [
+          {
+            "point": "Cloud Computing is a multi-billion dollar business. It's growing exponentially e",
+            "details": "Cloud Computing is a multi-billion dollar business. It's growing exponentially every year."
+          },
+          {
+            "point": "It's being used as a \"frontend\" in all industries.",
+            "details": "It's being used as a \"frontend\" in all industries."
+          },
+          {
+            "point": "Cloud Computing is one of the most important and successful technologies in the ",
+            "details": "Cloud Computing is one of the most important and successful technologies in the world."
+          }
+        ],
+        "fact_check_status": "unverified"
+      },
+      {
+        "topic": "Digital Transformation in Global Ai Summit 2026",
+        "talking_points": [
+          {
+            "point": "The key to success in this new era is to make sure that your team is a cohesive ",
+            "details": "The key to success in this new era is to make sure that your team is a cohesive and dynamic group."
+          },
+          {
+            "point": "Make sure that you communicate, both as a team and as a person, as a group.",
+            "details": "Make sure that you communicate, both as a team and as a person, as a group."
+          },
+          {
+            "point": "Create a process for all of the members to become part of this group.",
+            "details": "Create a process for all of the members to become part of this group."
+          }
+        ],
+        "fact_check_status": "unverified"
+      },
+      {
+        "topic": "Sustainability in Global Ai Summit 2026",
+        "talking_points": [
+          {
+            "point": "How can Sustainability be measured?",
+            "details": "How can Sustainability be measured?"
+          },
+          {
+            "point": "How can Sustainability be quantified?",
+            "details": "How can Sustainability be quantified?"
+          },
+          {
+            "point": "How can Sustainability be quantified?",
+            "details": "How can Sustainability be quantified?"
+          }
+        ],
+        "fact_check_status": "unverified"
+      }
+    ],
+    "timestamp": "2026-07-07T15:19:44.707502",
+    "logged_at": "2026-07-07T15:19:44.708569"
   }
 ]

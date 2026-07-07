@@ -26,7 +26,7 @@ Streamlit Frontend
        ↓
  FastAPI Backend
        ↓
-Conversation Router
+Conversation Routercd
        ↓
   ┌────┼──────────────┬──────────────┬──────────────┐
   ↓    ↓              ↓              ↓              ↓
@@ -53,6 +53,7 @@ Analyzer Generator  Checker       Logger         Logger
 
 ## 📂 Folder Structure
 ```
+
 Personalized-Network-Assistant/
 ├── Documentation/
 │   ├── 1. Brainstorming & Ideation/
@@ -76,22 +77,76 @@ Personalized-Network-Assistant/
 │   │       ├── fact_checker.py
 │   │       ├── history_logger.py
 │   │       └── feedback_logger.py
+│   ├── ER Diagram/
+│   │   ├── ER_Diagram_Description.md
+│   │   └── ER_Diagram.png
 │   ├── frontend/
 │   │   └── streamlit_app.py
+│   ├── Images/
+│   │   ├── conversation Generator.png
+│   │   ├── Fact Checker.png
+│   │   ├── Feedback.png
+│   │   ├── History.png
+│   │   ├── Home.png
+│   │   └── Swagger UI.png
 │   ├── tests/
 │   │   ├── conftest.py
 │   │   ├── test_event_analyzer.py
 │   │   ├── test_topic_generator.py
 │   │   ├── test_fact_checker.py
 │   │   └── test_routes.py
+│   ├── .gitignore
 │   ├── config.py
-│   ├── main.py
-│   ├── requirements.txt
-│   ├── history.json
 │   ├── feedback.json
-│   └── .gitignore
+│   ├── history.json
+│   ├── main.py
+│   └── requirements.txt
 └── Video/
+
 ```
+## 📸 Application Screenshots
+
+The following screenshots demonstrate the major functionalities of the **Personalized Networking Assistant** application.
+
+### 🏠 Home Page
+The main interface where users enter the event description and their interests to generate personalized networking conversation starters.
+
+![Home](SkillWallet_GenAI/Images/Home.png)
+
+---
+
+### 💬 Conversation Generator
+Displays AI-generated conversation starters based on the user's event description and interests.
+
+![Conversation Generator](SkillWallet_GenAI/Images/conversation%20Generator.png)
+
+---
+
+### 🔍 Fact Checker
+Allows users to verify facts using the integrated Wikipedia API and provides reliable summaries.
+
+![Fact Checker](SkillWallet_GenAI/Images/Fact%20Checker.png)
+
+---
+
+### 🕒 Conversation History
+Displays previously generated conversation sessions stored in the application history.
+
+![History](SkillWallet_GenAI/Images/History.png)
+
+---
+
+### ⭐ User Feedback
+Allows users to submit ratings and comments for generated conversation starters to improve future recommendations.
+
+![Feedback](SkillWallet_GenAI/Images/Feedback.png)
+
+---
+
+### 🌐 FastAPI Swagger UI
+Interactive API documentation for testing and validating all backend endpoints.
+
+![Swagger UI](SkillWallet_GenAI/Images/Swagger%20UI.png)
 
 ## ⚙️ Installation
 1. Navigate to the project module:
@@ -137,6 +192,8 @@ pytest
 3. **Generation**: Topic Generator uses GPT-2 to formulate conversation starters.
 4. **Verification**: Fact Checker runs claim lookups on Wikipedia to establish credibility.
 5. **Caching**: Session details are logged to `history.json`.
+
+
 
 ## 🚀 Future Enhancements
 - Integration of custom vector databases for faster embedding retrieval.
