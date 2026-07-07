@@ -1,0 +1,14 @@
+[
+  {
+    "conversation_id": "test-session-uuid-12345",
+    "rating": 5,
+    "comments": "Excellent custom talking points!",
+    "logged_at": "2026-07-06T19:33:14.107842"
+  },
+  {
+    "conversation_id": "test-session-uuid-12345",
+    "rating": 5,
+    "comments": "Excellent custom talking points!",
+    "logged_at": "2026-07-06T21:36:57.130822"
+  }
+]

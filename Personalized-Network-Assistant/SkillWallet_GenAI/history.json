@@ -1,0 +1,484 @@
+[
+  {
+    "conversation_id": "964dace6-9e74-4ed8-8064-f0b0f074b8a1",
+    "event_name": "Tech Summit 2026",
+    "topics": [
+      {
+        "topic": "Cybersecurity in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "What are your plans to continue your career as an IT expert?",
+            "details": "What are your plans to continue your career as an IT expert?"
+          },
+          {
+            "point": "What will you do after retirement?",
+            "details": "What will you do after retirement?"
+          },
+          {
+            "point": "What advice will you give to your employees about their IT careers?",
+            "details": "What advice will you give to your employees about their IT careers?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Product Management in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "What is Product Management?",
+            "details": "What is Product Management?"
+          },
+          {
+            "point": "What are the main features of Product Management?",
+            "details": "What are the main features of Product Management?"
+          },
+          {
+            "point": "What are the main benefits of Product Management?",
+            "details": "What are the main benefits of Product Management?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Innovation in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "How do you get started with Tech Summit?",
+            "details": "How do you get started with Tech Summit?"
+          },
+          {
+            "point": "How can I get involved with Tech Summit?",
+            "details": "How can I get involved with Tech Summit?"
+          },
+          {
+            "point": "How can I get involved with Tech Summit?",
+            "details": "How can I get involved with Tech Summit?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Digital Transformation in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "The Digital Transformation Program is a real change in culture, so what is the f",
+            "details": "The Digital Transformation Program is a real change in culture, so what is the future for this new technology?"
+          },
+          {
+            "point": "Digital Transformation has created a new model for what it means to be a digital",
+            "details": "Digital Transformation has created a new model for what it means to be a digital entrepreneur, and it's now possible to start your own startup without worrying about your online presence."
+          },
+          {
+            "point": "The Digital Transformation Program can provide the tools to transform your busin",
+            "details": "The Digital Transformation Program can provide the tools to transform your business into a successful, successful online business, whether it's building a website, a social media platform, or a produc"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Cloud Computing in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "How do you connect to the cloud?",
+            "details": "How do you connect to the cloud?"
+          },
+          {
+            "point": "How do you manage your data and how can you do this with your software?",
+            "details": "How do you manage your data and how can you do this with your software?"
+          },
+          {
+            "point": "How do you manage your data?",
+            "details": "How do you manage your data?"
+          }
+        ],
+        "fact_check_status": "verified"
+      }
+    ],
+    "timestamp": "2026-07-06T19:32:17.391334",
+    "logged_at": "2026-07-06T19:32:17.392584"
+  },
+  {
+    "conversation_id": "5cb6e3fb-c2cd-4a4c-9ca5-7f64944d2785",
+    "event_name": "Tech Summit 2026",
+    "topics": [
+      {
+        "topic": "Cybersecurity in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "Cybersecurity is a subject of discussion on the Internet, and this is the subjec",
+            "details": "Cybersecurity is a subject of discussion on the Internet, and this is the subject of discussion for Tech Summit 2026."
+          },
+          {
+            "point": "The most important thing is that it is not just the security of the Internet, bu",
+            "details": "The most important thing is that it is not just the security of the Internet, but also the security of our industry."
+          },
+          {
+            "point": "The best security measures are applied when possible. That is why we do not allo",
+            "details": "The best security measures are applied when possible. That is why we do not allow security products that are not a part of the current security products to be used in the future."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Product Management in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "It's an easy way to start a new career.",
+            "details": "It's an easy way to start a new career."
+          },
+          {
+            "point": "How do you get started with product management?",
+            "details": "How do you get started with product management?"
+          },
+          {
+            "point": "How can you get started with Product Management?",
+            "details": "How can you get started with Product Management?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Innovation in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "The Innovation team is a unique entity in the global tech space. It is responsib",
+            "details": "The Innovation team is a unique entity in the global tech space. It is responsible for leading the development of the best-practices for new and emerging technologies."
+          },
+          {
+            "point": "It is responsible for creating the most up-to-date, high-quality and comprehensi",
+            "details": "It is responsible for creating the most up-to-date, high-quality and comprehensive IT training for its members."
+          },
+          {
+            "point": "It is responsible for creating an engaging and flexible learning environment for",
+            "details": "It is responsible for creating an engaging and flexible learning environment for the new entrants."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Digital Transformation in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "Digital transformation can help you change your career path.",
+            "details": "Digital transformation can help you change your career path."
+          },
+          {
+            "point": "Digital transformation can help you stay ahead of the curve.",
+            "details": "Digital transformation can help you stay ahead of the curve."
+          },
+          {
+            "point": "Digital transformation can help you keep up with the latest trends and trends in",
+            "details": "Digital transformation can help you keep up with the latest trends and trends in social media."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Cloud Computing in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "What is a Cloud Computing Summit?",
+            "details": "What is a Cloud Computing Summit?"
+          },
+          {
+            "point": "What is Cloud Computing Summit?",
+            "details": "What is Cloud Computing Summit?"
+          },
+          {
+            "point": "What is Cloud Computing Summit?",
+            "details": "What is Cloud Computing Summit?"
+          }
+        ],
+        "fact_check_status": "verified"
+      }
+    ],
+    "timestamp": "2026-07-06T19:33:07.260238",
+    "logged_at": "2026-07-06T19:33:07.261425"
+  },
+  {
+    "conversation_id": "a4c4707e-7837-4bda-81ce-98c98e6cd8e3",
+    "event_name": "AI & Machine learning Summit 2025",
+    "topics": [
+      {
+        "topic": "Cybersecurity in AI & Machine learning Summit 2025",
+        "talking_points": [
+          {
+            "point": "1. Introduction to AI and Machine Learning",
+            "details": "1. Introduction to AI and Machine Learning"
+          },
+          {
+            "point": "2. How do you work with machine learning systems?",
+            "details": "2. How do you work with machine learning systems?"
+          },
+          {
+            "point": "2. How do you train AI and machine learning systems?",
+            "details": "2. How do you train AI and machine learning systems?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Cloud Computing in AI & Machine learning Summit 2025",
+        "talking_points": [
+          {
+            "point": "How do we improve the security of our applications using high performance comput",
+            "details": "How do we improve the security of our applications using high performance computing hardware?"
+          },
+          {
+            "point": "How do we increase the speed of data processing?",
+            "details": "How do we increase the speed of data processing?"
+          },
+          {
+            "point": "How do we better understand the capabilities of software?",
+            "details": "How do we better understand the capabilities of software?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Product Management in AI & Machine learning Summit 2025",
+        "talking_points": [
+          {
+            "point": "The importance of networking in human-computer interaction.",
+            "details": "The importance of networking in human-computer interaction."
+          },
+          {
+            "point": "A general definition of product management.",
+            "details": "A general definition of product management."
+          },
+          {
+            "point": "What happens when a company hires people for its marketing and technical teams.",
+            "details": "What happens when a company hires people for its marketing and technical teams."
+          }
+        ],
+        "fact_check_status": "unverified"
+      },
+      {
+        "topic": "Software Development in AI & Machine learning Summit 2025",
+        "talking_points": [
+          {
+            "point": "How do you define a \"community\"?",
+            "details": "How do you define a \"community\"?"
+          },
+          {
+            "point": "How do you define a \"community\"? 3. How do you define a \"community\"? 4. What is ",
+            "details": "How do you define a \"community\"? 3. How do you define a \"community\"? 4. What is the value of a software developer and how do you define that value?"
+          },
+          {
+            "point": "How do you define a \"community\"? 6. What is the value of a software developer an",
+            "details": "How do you define a \"community\"? 6. What is the value of a software developer and how do you define that value? 7. How do you define a \"community\"? 8."
+          }
+        ],
+        "fact_check_status": "unverified"
+      },
+      {
+        "topic": "Data Science in AI & Machine learning Summit 2025",
+        "talking_points": [
+          {
+            "point": "AI & Machine Learning",
+            "details": "AI & Machine Learning"
+          },
+          {
+            "point": "The Future of Social Science",
+            "details": "The Future of Social Science"
+          },
+          {
+            "point": "The Future of Data Science at AI & Machine Learning Summit 2025. Key points:",
+            "details": "The Future of Data Science at AI & Machine Learning Summit 2025. Key points:"
+          }
+        ],
+        "fact_check_status": "unverified"
+      }
+    ],
+    "timestamp": "2026-07-06T21:08:00.057418",
+    "logged_at": "2026-07-06T21:08:00.058309"
+  },
+  {
+    "conversation_id": "738182c3-b2d5-4ab6-8141-892ece3762c9",
+    "event_name": "Tech Summit 2026",
+    "topics": [
+      {
+        "topic": "Cybersecurity in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "I'm a security consultant and I've been thinking about Cyber Security for a long",
+            "details": "I'm a security consultant and I've been thinking about Cyber Security for a long time. What advice do you have for security professionals who want to avoid this kind of risk?"
+          },
+          {
+            "point": "Do you have any advice for cyber security professionals who want to avoid this k",
+            "details": "Do you have any advice for cyber security professionals who want to avoid this kind of risk?"
+          },
+          {
+            "point": "Cybersecurity is a lot like health. Everyone's body is different. You have diffe",
+            "details": "Cybersecurity is a lot like health. Everyone's body is different. You have different organs, different genes, different health conditions. In the cyber world, you're all different."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Product Management in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "Product Management",
+            "details": "Product Management"
+          },
+          {
+            "point": "Product Management",
+            "details": "Product Management"
+          },
+          {
+            "point": "Product Management",
+            "details": "Product Management"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Innovation in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "The key points that were discussed:",
+            "details": "The key points that were discussed:"
+          },
+          {
+            "point": "The importance of using Open Source Software",
+            "details": "The importance of using Open Source Software"
+          },
+          {
+            "point": "Why open source is important",
+            "details": "Why open source is important"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Digital Transformation in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "What does digital transformation mean for the future of enterprise software deve",
+            "details": "What does digital transformation mean for the future of enterprise software development?"
+          },
+          {
+            "point": "How will our digital transformation opportunities affect our business?",
+            "details": "How will our digital transformation opportunities affect our business?"
+          },
+          {
+            "point": "How do we change the world?",
+            "details": "How do we change the world?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Cloud Computing in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "The Cloud Computing Community: What's the best thing about it? 2. Cloud Computin",
+            "details": "The Cloud Computing Community: What's the best thing about it? 2. Cloud Computing Community Blog: What do you think about Cloud Computing? 3."
+          }
+        ],
+        "fact_check_status": "verified"
+      }
+    ],
+    "timestamp": "2026-07-06T21:35:41.417618",
+    "logged_at": "2026-07-06T21:35:41.420327"
+  },
+  {
+    "conversation_id": "2383f7a3-02f9-49d6-9548-627a60b5cfc2",
+    "event_name": "Tech Summit 2026",
+    "topics": [
+      {
+        "topic": "Cybersecurity in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "How we can help reduce cybercrime, and improve our cyber security practices.",
+            "details": "How we can help reduce cybercrime, and improve our cyber security practices."
+          },
+          {
+            "point": "Cybersecurity can improve the security of our business.",
+            "details": "Cybersecurity can improve the security of our business."
+          },
+          {
+            "point": "Cybersecurity can help people learn more about the challenges of cyber security.",
+            "details": "Cybersecurity can help people learn more about the challenges of cyber security."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Product Management in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "Product Management is not about \"just doing it.\" It is about doing it effectivel",
+            "details": "Product Management is not about \"just doing it.\" It is about doing it effectively, efficiently, and efficiently."
+          },
+          {
+            "point": "Product management is about building your team, and not just being the leader.",
+            "details": "Product management is about building your team, and not just being the leader."
+          },
+          {
+            "point": "Product management is about doing it professionally.",
+            "details": "Product management is about doing it professionally."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Innovation in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "Innovation is a process, and we all have different processes.",
+            "details": "Innovation is a process, and we all have different processes."
+          },
+          {
+            "point": "Innovations happen when we innovate.",
+            "details": "Innovations happen when we innovate."
+          },
+          {
+            "point": "Innovation is a way of life.",
+            "details": "Innovation is a way of life."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Digital Transformation in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "The future of digital transformation.",
+            "details": "The future of digital transformation."
+          },
+          {
+            "point": "How to take control of your data.",
+            "details": "How to take control of your data."
+          },
+          {
+            "point": "The need for a new way to communicate.",
+            "details": "The need for a new way to communicate."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Cloud Computing in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "I think this talk is really important.",
+            "details": "I think this talk is really important."
+          },
+          {
+            "point": "What's the best way to learn about Cloud Computing?",
+            "details": "What's the best way to learn about Cloud Computing?"
+          },
+          {
+            "point": "What are the best way to get started in Cloud Computing?",
+            "details": "What are the best way to get started in Cloud Computing?"
+          }
+        ],
+        "fact_check_status": "verified"
+      }
+    ],
+    "timestamp": "2026-07-06T21:36:44.714040",
+    "logged_at": "2026-07-06T21:36:44.714680"
+  }
+]
