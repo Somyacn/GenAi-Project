@@ -10,4 +10,4 @@ This folder contains the complete demo video of the **Personalized Networking As
 - Feedback submission with Session ID and Ratings
 
 ▶️ Demo Video Link:
-https://drive.google.com/file/d/1TZ2iDgrRS9ndSdRLY0srVleIMFHZvbTl/view?usp=drive_link
+https://drive.google.com/file/d/1JMjH0l_85v2bVSHUhC1jzETSxTuGePDB/view?usp=drivesdk
