@@ -8738,5 +8738,887 @@
     ],
     "timestamp": "2026-07-09T12:57:37.182889",
     "logged_at": "2026-07-09T12:57:37.234920"
+  },
+  {
+    "conversation_id": "23f11fc7-a6ba-414a-b704-a4ea413c6885",
+    "event_name": "AI for Sustainable Cities Conference",
+    "topics": [
+      {
+        "topic": "Cybersecurity in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "Cybersecurity is not an easy skill to master. In fact, many people who teach cyb",
+            "details": "Cybersecurity is not an easy skill to master. In fact, many people who teach cybersecurity skills in high school or college don't understand cybersecurity well."
+          },
+          {
+            "point": "Cybersecurity courses are a critical part of your curriculum and your business. ",
+            "details": "Cybersecurity courses are a critical part of your curriculum and your business. They are your first step on your way to becoming an effective cyber security instructor."
+          },
+          {
+            "point": "Your own cyber security skills can make a huge difference in your business. The ",
+            "details": "Your own cyber security skills can make a huge difference in your business. The most important thing to know about cybersecurity is that it is a skill you can apply to any industry."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Sustainability in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "There are 3 main categories of sustainability:",
+            "details": "There are 3 main categories of sustainability:"
+          },
+          {
+            "point": "Sustainable Design",
+            "details": "Sustainable Design"
+          },
+          {
+            "point": "Sustainable Business",
+            "details": "Sustainable Business"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Digital Transformation in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "What are the most effective tools available to help you to be a better digital t",
+            "details": "What are the most effective tools available to help you to be a better digital transformation leader?"
+          },
+          {
+            "point": "How can you leverage the skills you have already acquired through education and ",
+            "details": "How can you leverage the skills you have already acquired through education and experience to grow your online presence?"
+          },
+          {
+            "point": "How can you build a community that can support you as a digital transformation l",
+            "details": "How can you build a community that can support you as a digital transformation leader?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Product Management in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "What the heck is the point of this discussion?",
+            "details": "What the heck is the point of this discussion?"
+          },
+          {
+            "point": "What are the main points of the discussion?",
+            "details": "What are the main points of the discussion?"
+          },
+          {
+            "point": "What is the current state of the discussion?",
+            "details": "What is the current state of the discussion?"
+          }
+        ],
+        "fact_check_status": "unverified"
+      },
+      {
+        "topic": "Cloud Computing in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "Acknowledge the importance of a successful company.",
+            "details": "Acknowledge the importance of a successful company."
+          },
+          {
+            "point": "Think of opportunities for the startup community.",
+            "details": "Think of opportunities for the startup community."
+          },
+          {
+            "point": "Know the culture and resources of the startup community.",
+            "details": "Know the culture and resources of the startup community."
+          }
+        ],
+        "fact_check_status": "unverified"
+      }
+    ],
+    "timestamp": "2026-07-09T21:48:27.383752",
+    "logged_at": "2026-07-09T21:48:27.389876"
+  },
+  {
+    "conversation_id": "8889cab3-c053-45af-94f6-4ecd520c2fe4",
+    "event_name": "AI for Sustainable Cities Conference",
+    "topics": [
+      {
+        "topic": "Cybersecurity in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "1. What is \"Security for Humanity\" and what are the implications for cyber secur",
+            "details": "1. What is \"Security for Humanity\" and what are the implications for cyber security?"
+          },
+          {
+            "point": "Why are companies and organizations supporting the Cybersecurity community?",
+            "details": "Why are companies and organizations supporting the Cybersecurity community?"
+          },
+          {
+            "point": "Why are companies and organizations promoting cybersecurity education?",
+            "details": "Why are companies and organizations promoting cybersecurity education?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Sustainability in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "What is Sustainable Cities?",
+            "details": "What is Sustainable Cities?"
+          },
+          {
+            "point": "What are Sustainable Cities?",
+            "details": "What are Sustainable Cities?"
+          },
+          {
+            "point": "What is Sustainable Cities?",
+            "details": "What is Sustainable Cities?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Digital Transformation in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "How does a new digital transformation approach relate to the digital transformat",
+            "details": "How does a new digital transformation approach relate to the digital transformation of cities?"
+          },
+          {
+            "point": "How can you make a difference with digital transformation and how can you work w",
+            "details": "How can you make a difference with digital transformation and how can you work with the digital transformation of cities?"
+          },
+          {
+            "point": "How do you use digital transformation in your business?",
+            "details": "How do you use digital transformation in your business?"
+          }
+        ],
+        "fact_check_status": "unverified"
+      },
+      {
+        "topic": "Product Management in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "How do we get the most out of our technology?",
+            "details": "How do we get the most out of our technology?"
+          },
+          {
+            "point": "How do we get the most out of our technology?",
+            "details": "How do we get the most out of our technology?"
+          },
+          {
+            "point": "What technologies are our customers interested in?",
+            "details": "What technologies are our customers interested in?"
+          }
+        ],
+        "fact_check_status": "unverified"
+      },
+      {
+        "topic": "Cloud Computing in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "The \"Cloud\" as a Social Network: The Cloud is Cloud Computing's Future",
+            "details": "The \"Cloud\" as a Social Network: The Cloud is Cloud Computing's Future"
+          },
+          {
+            "point": "The Cloud as a Social Network: A Big Data Startup",
+            "details": "The Cloud as a Social Network: A Big Data Startup"
+          },
+          {
+            "point": "The Cloud as a Social Network: Cloud Computing's Future",
+            "details": "The Cloud as a Social Network: Cloud Computing's Future"
+          }
+        ],
+        "fact_check_status": "unverified"
+      }
+    ],
+    "timestamp": "2026-07-09T21:49:18.687776",
+    "logged_at": "2026-07-09T21:49:18.695184"
+  },
+  {
+    "conversation_id": "82b516ae-73e4-4a26-85f2-59f55d7ca25e",
+    "event_name": "AI for Sustainable Cities Conference",
+    "topics": [
+      {
+        "topic": "Cybersecurity in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "Cybersecurity is critical to our economic growth and the future of our planet",
+            "details": "Cybersecurity is critical to our economic growth and the future of our planet"
+          },
+          {
+            "point": "We need to protect our security",
+            "details": "We need to protect our security"
+          },
+          {
+            "point": "We need to create more resilient technologies to protect our people",
+            "details": "We need to create more resilient technologies to protect our people"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Sustainability in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "A Sustainable Cities Strategy",
+            "details": "A Sustainable Cities Strategy"
+          },
+          {
+            "point": "Sustainability and the Future of Sustainable Cities",
+            "details": "Sustainability and the Future of Sustainable Cities"
+          },
+          {
+            "point": "Sustainability in Sustainable Cities",
+            "details": "Sustainability in Sustainable Cities"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Digital Transformation in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "In the next 5 years, we need to create the world's best data-driven, high-perfor",
+            "details": "In the next 5 years, we need to create the world's best data-driven, high-performance online training platform for all those who want to learn how to use the Internet for their own personal and profes"
+          },
+          {
+            "point": "The first step to building a data-driven, high-performance online training platf",
+            "details": "The first step to building a data-driven, high-performance online training platform is to establish a model of how to use the Internet to help develop, manage and improve the online experience for the"
+          },
+          {
+            "point": "This is a major challenge. We need to develop a system that will enable organiza",
+            "details": "This is a major challenge. We need to develop a system that will enable organizations to design, implement and operate a data-driven, high-performance online training platform, where the people who"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Product Management in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "Product management needs to be the top priority in the industry.",
+            "details": "Product management needs to be the top priority in the industry."
+          },
+          {
+            "point": "Product management needs to be the top priority in the industry.",
+            "details": "Product management needs to be the top priority in the industry."
+          },
+          {
+            "point": "Product management needs to be the top priority in the industry.",
+            "details": "Product management needs to be the top priority in the industry."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Cloud Computing in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "Introduction to cloud computing by Mike A. Kastel: Cloud computing is a new way ",
+            "details": "Introduction to cloud computing by Mike A. Kastel: Cloud computing is a new way of being. It means different things to different people, and it doesn't require any fancy software or hardware."
+          },
+          {
+            "point": "The benefits of Cloud Computing:",
+            "details": "The benefits of Cloud Computing:"
+          },
+          {
+            "point": "Performance increases the productivity of everyone, so we're seeing a lot of pro",
+            "details": "Performance increases the productivity of everyone, so we're seeing a lot of productivity gains. It's really a game of chess."
+          }
+        ],
+        "fact_check_status": "verified"
+      }
+    ],
+    "timestamp": "2026-07-09T21:50:29.763401",
+    "logged_at": "2026-07-09T21:50:29.770466"
+  },
+  {
+    "conversation_id": "8bca51dc-3f4d-4268-b127-1361a133bfe3",
+    "event_name": "AI for Sustainable Cities Conference",
+    "topics": [
+      {
+        "topic": "Cybersecurity in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "How can you help in the development of a Cybersecurity Solution that will improv",
+            "details": "How can you help in the development of a Cybersecurity Solution that will improve your life?"
+          },
+          {
+            "point": "What are some of the common pitfalls when developing and deploying an AI solutio",
+            "details": "What are some of the common pitfalls when developing and deploying an AI solution?"
+          },
+          {
+            "point": "What are some of the pitfalls in applying a security solution that you can use t",
+            "details": "What are some of the pitfalls in applying a security solution that you can use to your advantage?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Sustainability in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "\"Sustainability is a good idea, not a bad idea\" – The Conversation, November 5, ",
+            "details": "\"Sustainability is a good idea, not a bad idea\" – The Conversation, November 5, 2015"
+          },
+          {
+            "point": "\"Sustainability is a great idea, not a bad idea\" – The Conversation, November 7,",
+            "details": "\"Sustainability is a great idea, not a bad idea\" – The Conversation, November 7, 2015"
+          },
+          {
+            "point": "\"Sustainability is a good idea, not a bad idea\" – The Conversation, November 8, ",
+            "details": "\"Sustainability is a good idea, not a bad idea\" – The Conversation, November 8, 2015"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Digital Transformation in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "Digital Transformation is a process that is based on the principle of \"interconn",
+            "details": "Digital Transformation is a process that is based on the principle of \"interconnectivity\" between stakeholders."
+          },
+          {
+            "point": "We know that digital transformation can be the most effective way to improve the",
+            "details": "We know that digital transformation can be the most effective way to improve the quality of life in our society. But we also know that digital transformation can take many forms."
+          },
+          {
+            "point": "Many organizations and individuals are using digital transformation to transform",
+            "details": "Many organizations and individuals are using digital transformation to transform their businesses."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Product Management in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "It's not just a question of product managers: there's more work to be done.",
+            "details": "It's not just a question of product managers: there's more work to be done."
+          },
+          {
+            "point": "Product managers are a community of talented people who are passionate about the",
+            "details": "Product managers are a community of talented people who are passionate about their products and are doing great work."
+          },
+          {
+            "point": "The world needs better job opportunities.",
+            "details": "The world needs better job opportunities."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Cloud Computing in AI for Sustainable Cities Conference",
+        "talking_points": [
+          {
+            "point": "The Cloud Computing ecosystem is increasingly evolving and growing. Cloud Comput",
+            "details": "The Cloud Computing ecosystem is increasingly evolving and growing. Cloud Computing has become a way for businesses to connect with customers, collaborate on their business, and manage the cloud."
+          },
+          {
+            "point": "Cloud computing is changing how we work and manage our lives. There are more and",
+            "details": "Cloud computing is changing how we work and manage our lives. There are more and more startups and services that use cloud to solve problems."
+          },
+          {
+            "point": "Cloud Computing is a way for enterprises to be more productive, more effective, ",
+            "details": "Cloud Computing is a way for enterprises to be more productive, more effective, and more responsible."
+          }
+        ],
+        "fact_check_status": "verified"
+      }
+    ],
+    "timestamp": "2026-07-09T21:51:27.842488",
+    "logged_at": "2026-07-09T21:51:27.849877"
+  },
+  {
+    "conversation_id": "12e70e51-ee10-4fb2-8112-511991d1939a",
+    "event_name": "AI for Sustainable cities Conference",
+    "topics": [
+      {
+        "topic": "Cybersecurity in AI for Sustainable cities Conference",
+        "talking_points": [
+          {
+            "point": "If you're a business that wants to connect with an AI community, you have to be ",
+            "details": "If you're a business that wants to connect with an AI community, you have to be very clear about the security of your data."
+          },
+          {
+            "point": "A good security culture means you have to communicate with the community.",
+            "details": "A good security culture means you have to communicate with the community."
+          },
+          {
+            "point": "The community has to know how to use the data, so you can protect it.",
+            "details": "The community has to know how to use the data, so you can protect it."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Sustainability in AI for Sustainable cities Conference",
+        "talking_points": [
+          {
+            "point": "Can AI be a sustainable solution for cities?",
+            "details": "Can AI be a sustainable solution for cities?"
+          },
+          {
+            "point": "Can Sustainability in the Sustainability Business be a Sustainable Business?",
+            "details": "Can Sustainability in the Sustainability Business be a Sustainable Business?"
+          },
+          {
+            "point": "Are there other Sustainable Business models that work for cities?",
+            "details": "Are there other Sustainable Business models that work for cities?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Digital Transformation in AI for Sustainable cities Conference",
+        "talking_points": [
+          {
+            "point": "The benefits of blockchain technologies for AI:",
+            "details": "The benefits of blockchain technologies for AI:"
+          },
+          {
+            "point": "A simple, fast, and decentralized way to build your own autonomous robots.",
+            "details": "A simple, fast, and decentralized way to build your own autonomous robots."
+          },
+          {
+            "point": "A practical tool for automated research and development in AI for Sustainable ci",
+            "details": "A practical tool for automated research and development in AI for Sustainable cities Conference. Key discussion points:"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Product Management in AI for Sustainable cities Conference",
+        "talking_points": [
+          {
+            "point": "The most productive way to be an AI expert is to have a team of people who are h",
+            "details": "The most productive way to be an AI expert is to have a team of people who are highly competent, motivated, and motivated to help you."
+          },
+          {
+            "point": "The most productive way to be an AI expert is to have a team of people who are h",
+            "details": "The most productive way to be an AI expert is to have a team of people who are highly competent, motivated, and motivated to help you. 3."
+          },
+          {
+            "point": "The most productive way to be an AI expert is to work on developing new products",
+            "details": "The most productive way to be an AI expert is to work on developing new products."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Cloud Computing in AI for Sustainable cities Conference",
+        "talking_points": [
+          {
+            "point": "Can I build my own business from scratch with Cloud Computing?",
+            "details": "Can I build my own business from scratch with Cloud Computing?"
+          },
+          {
+            "point": "What's the cost to start a business with Cloud Computing?",
+            "details": "What's the cost to start a business with Cloud Computing?"
+          },
+          {
+            "point": "Will I have to invest in the cloud?",
+            "details": "Will I have to invest in the cloud?"
+          }
+        ],
+        "fact_check_status": "verified"
+      }
+    ],
+    "timestamp": "2026-07-09T21:52:32.664905",
+    "logged_at": "2026-07-09T21:52:32.672200"
+  },
+  {
+    "conversation_id": "8a553674-6d64-402a-a9c7-3d5eea8a4bcf",
+    "event_name": "Tech Summit 2026",
+    "topics": [
+      {
+        "topic": "Cybersecurity in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "What are the biggest security threats to Cyber Security today?",
+            "details": "What are the biggest security threats to Cyber Security today?"
+          },
+          {
+            "point": "How do you avoid cyber attacks?",
+            "details": "How do you avoid cyber attacks?"
+          },
+          {
+            "point": "Do you need to implement more security measures?",
+            "details": "Do you need to implement more security measures?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Product Management in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "You can get some exposure if you're not a Product Manager",
+            "details": "You can get some exposure if you're not a Product Manager"
+          },
+          {
+            "point": "Product management is not a business",
+            "details": "Product management is not a business"
+          },
+          {
+            "point": "Product management is not about managing your business",
+            "details": "Product management is not about managing your business"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Innovation in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "How can we learn from our past mistakes?",
+            "details": "How can we learn from our past mistakes?"
+          },
+          {
+            "point": "How can we change our mindset and be successful in our career?",
+            "details": "How can we change our mindset and be successful in our career?"
+          },
+          {
+            "point": "How can we be more focused on our own needs?",
+            "details": "How can we be more focused on our own needs?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Digital Transformation in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "We need to find the right people to take on this challenge, and to do so with th",
+            "details": "We need to find the right people to take on this challenge, and to do so with the appropriate skills."
+          },
+          {
+            "point": "We have a lot of experience working with traditional organizations.",
+            "details": "We have a lot of experience working with traditional organizations."
+          },
+          {
+            "point": "We know the skills that are needed to get a digital transformation team of profe",
+            "details": "We know the skills that are needed to get a digital transformation team of professionals."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Cloud Computing in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "What should the cloud computing industry look like in the next few years?",
+            "details": "What should the cloud computing industry look like in the next few years?"
+          },
+          {
+            "point": "Why does the cloud computing industry need a new CEO?",
+            "details": "Why does the cloud computing industry need a new CEO?"
+          },
+          {
+            "point": "The Cloud Computing Industry Needs to Break Down",
+            "details": "The Cloud Computing Industry Needs to Break Down"
+          }
+        ],
+        "fact_check_status": "verified"
+      }
+    ],
+    "timestamp": "2026-07-09T21:56:51.078163",
+    "logged_at": "2026-07-09T21:56:51.081747"
+  },
+  {
+    "conversation_id": "c965a632-8eb8-4695-93a3-bd5459610786",
+    "event_name": "Tech Summit 2026",
+    "topics": [
+      {
+        "topic": "Cybersecurity in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "Cybersecurity is a security challenge.",
+            "details": "Cybersecurity is a security challenge."
+          },
+          {
+            "point": "Cybersecurity requires a unique approach to security that enables everyone to co",
+            "details": "Cybersecurity requires a unique approach to security that enables everyone to contribute together to protect the system."
+          },
+          {
+            "point": "The challenge of protecting critical infrastructure requires a strong, proactive",
+            "details": "The challenge of protecting critical infrastructure requires a strong, proactive, and long-term strategy."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Product Management in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "What is Product Management?",
+            "details": "What is Product Management?"
+          },
+          {
+            "point": "What is Product Management?",
+            "details": "What is Product Management?"
+          },
+          {
+            "point": "What is Product Management?",
+            "details": "What is Product Management?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Innovation in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "Tech-based networking can be a great way to connect with customers, but it is no",
+            "details": "Tech-based networking can be a great way to connect with customers, but it is not an easy process."
+          },
+          {
+            "point": "It's not the only way to grow your business. It's also not the only way to grow ",
+            "details": "It's not the only way to grow your business. It's also not the only way to grow your team."
+          },
+          {
+            "point": "It can be a great way to attract new talent and keep your team motivated.",
+            "details": "It can be a great way to attract new talent and keep your team motivated."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Digital Transformation in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "Acknowledgment of this conversation.",
+            "details": "Acknowledgment of this conversation."
+          },
+          {
+            "point": "Re-emphasize that this was a conversation that was not intended to be a conversa",
+            "details": "Re-emphasize that this was a conversation that was not intended to be a conversation about Digital Transformation."
+          },
+          {
+            "point": "Re-emphasize that the discussion was about a different topic.",
+            "details": "Re-emphasize that the discussion was about a different topic."
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Cloud Computing in Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "How does cloud computing compare to traditional IT and cloud computing, and how ",
+            "details": "How does cloud computing compare to traditional IT and cloud computing, and how do you find a company that can do the latter?"
+          },
+          {
+            "point": "What is the difference between a cloud and a traditional IT company?",
+            "details": "What is the difference between a cloud and a traditional IT company?"
+          },
+          {
+            "point": "How do you find out about new technologies?",
+            "details": "How do you find out about new technologies?"
+          }
+        ],
+        "fact_check_status": "verified"
+      }
+    ],
+    "timestamp": "2026-07-09T21:57:32.835537",
+    "logged_at": "2026-07-09T21:57:32.839541"
+  },
+  {
+    "conversation_id": "493d3722-fd72-4549-bd0c-354ba301cbb5",
+    "event_name": "Innovation In Tech Summit 2026",
+    "topics": [
+      {
+        "topic": "Cybersecurity in Innovation In Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "How do we make our community safer?",
+            "details": "How do we make our community safer?"
+          },
+          {
+            "point": "How can we increase security at our conferences?",
+            "details": "How can we increase security at our conferences?"
+          },
+          {
+            "point": "How can we reduce our cybersecurity risk?",
+            "details": "How can we reduce our cybersecurity risk?"
+          }
+        ],
+        "fact_check_status": "unverified"
+      },
+      {
+        "topic": "Digital Transformation in Innovation In Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "Digital Transformation, a new generation of digital entrepreneurs, is a new kind",
+            "details": "Digital Transformation, a new generation of digital entrepreneurs, is a new kind of business model."
+          },
+          {
+            "point": "Digital Transformation is a new kind of business model that requires a entrepren",
+            "details": "Digital Transformation is a new kind of business model that requires a entrepreneurial spirit and a willingness to take risks to grow."
+          },
+          {
+            "point": "Digital Transformation is a new kind of business model that requires a entrepren",
+            "details": "Digital Transformation is a new kind of business model that requires a entrepreneurial spirit and a willingness to take risks to grow."
+          }
+        ],
+        "fact_check_status": "unverified"
+      },
+      {
+        "topic": "Product Management in Innovation In Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "What is your goal for this year?",
+            "details": "What is your goal for this year?"
+          },
+          {
+            "point": "What are the key features of this year's product?",
+            "details": "What are the key features of this year's product?"
+          },
+          {
+            "point": "What is the difference between the Product Management Summit and the Product Mar",
+            "details": "What is the difference between the Product Management Summit and the Product Marketing Summit?"
+          }
+        ],
+        "fact_check_status": "unverified"
+      },
+      {
+        "topic": "Innovation in Innovation In Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "The impact of the new technology on the future of IT.",
+            "details": "The impact of the new technology on the future of IT."
+          },
+          {
+            "point": "The impact of new technology on the future of IT.",
+            "details": "The impact of new technology on the future of IT."
+          },
+          {
+            "point": "The impact of new technology on the future of IT.",
+            "details": "The impact of new technology on the future of IT."
+          }
+        ],
+        "fact_check_status": "unverified"
+      },
+      {
+        "topic": "Cloud Computing in Innovation In Tech Summit 2026",
+        "talking_points": [
+          {
+            "point": "How do we connect with other attendees to learn from their work?",
+            "details": "How do we connect with other attendees to learn from their work?"
+          },
+          {
+            "point": "How do we create a sense of trust in our team?",
+            "details": "How do we create a sense of trust in our team?"
+          },
+          {
+            "point": "What are the most important tools and software technologies that we can use in o",
+            "details": "What are the most important tools and software technologies that we can use in our team's work?"
+          }
+        ],
+        "fact_check_status": "unverified"
+      }
+    ],
+    "timestamp": "2026-07-09T22:13:25.995921",
+    "logged_at": "2026-07-09T22:13:26.004614"
+  },
+  {
+    "conversation_id": "dff7a53e-2b4e-40c3-8a1d-a852317be220",
+    "event_name": "AI Innovation Summit 2026",
+    "topics": [
+      {
+        "topic": "Cybersecurity in AI Innovation Summit 2026",
+        "talking_points": [
+          {
+            "point": "What is the best way to get people to share the knowledge of security in the fie",
+            "details": "What is the best way to get people to share the knowledge of security in the field?"
+          },
+          {
+            "point": "How can I help in the future of AI?",
+            "details": "How can I help in the future of AI?"
+          },
+          {
+            "point": "What are the key challenges of cyber security?",
+            "details": "What are the key challenges of cyber security?"
+          }
+        ],
+        "fact_check_status": "verified"
+      },
+      {
+        "topic": "Product Management in AI Innovation Summit 2026",
+        "talking_points": [
+          {
+            "point": "What's your team up to this year? What are your goals?",
+            "details": "What's your team up to this year? What are your goals?"
+          },
+          {
+            "point": "What's your favorite team you've worked with?",
+            "details": "What's your favorite team you've worked with?"
+          },
+          {
+            "point": "What's your favorite product you've worked on?",
+            "details": "What's your favorite product you've worked on?"
+          }
+        ],
+        "fact_check_status": "unverified"
+      },
+      {
+        "topic": "Innovation in AI Innovation Summit 2026",
+        "talking_points": [
+          {
+            "point": "What are the main challenges facing AI startups and their entrepreneurs?",
+            "details": "What are the main challenges facing AI startups and their entrepreneurs?"
+          },
+          {
+            "point": "How do they address the challenges faced by large organizations and individuals?",
+            "details": "How do they address the challenges faced by large organizations and individuals?"
+          },
+          {
+            "point": "How does the AI ecosystem interact with the business and business models that it",
+            "details": "How does the AI ecosystem interact with the business and business models that it develops?"
+          }
+        ],
+        "fact_check_status": "unverified"
+      },
+      {
+        "topic": "Cloud Computing in AI Innovation Summit 2026",
+        "talking_points": [
+          {
+            "point": "What is cloud computing?",
+            "details": "What is cloud computing?"
+          },
+          {
+            "point": "Cloud computing, or Cloud Platform, is a term used to describe a framework of di",
+            "details": "Cloud computing, or Cloud Platform, is a term used to describe a framework of distributed computing that is designed to work together across multiple platforms."
+          },
+          {
+            "point": "Cloud Platforms",
+            "details": "Cloud Platforms"
+          }
+        ],
+        "fact_check_status": "unverified"
+      },
+      {
+        "topic": "Digital Transformation in AI Innovation Summit 2026",
+        "talking_points": [
+          {
+            "point": "We've seen how the digital world is changing and how we can get better at it.",
+            "details": "We've seen how the digital world is changing and how we can get better at it."
+          },
+          {
+            "point": "We're changing the way we talk about technology.",
+            "details": "We're changing the way we talk about technology."
+          },
+          {
+            "point": "We're getting better at talking about technology.",
+            "details": "We're getting better at talking about technology."
+          }
+        ],
+        "fact_check_status": "unverified"
+      }
+    ],
+    "timestamp": "2026-07-09T22:41:36.825316",
+    "logged_at": "2026-07-09T22:41:36.839446"
   }
 ]
