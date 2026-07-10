@@ -16,7 +16,7 @@ from datetime import datetime
 # ──────────────────────────────────────────────
 # Page Configuration & Constants
 # ──────────────────────────────────────────────
-BACKEND_URL = "https://genai-project-backend-uch7.onrender.com"
+BACKEND_URL = "http://127.0.0.1:8000"
 
 
 def configure_page():
